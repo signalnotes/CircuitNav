@@ -8,6 +8,7 @@ pnpm-lock.yaml
 dist/
 build/
 *.local
+.vite/
 
 # Editor directories and files
 .vscode/
